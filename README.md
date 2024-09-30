@@ -1,5 +1,5 @@
 # Dynamisk rapport
-Applikationen för dynamisk rapport installeras automatiskt i din Qlik Cloud-miljö.
+En automation som automatiskt installerar en dynamisk rapport i din Qlik Cloud-miljö.
 
 ![image](https://github.com/user-attachments/assets/0cf4b72f-8849-47b9-b2f2-dd38a6eb1646)
 
