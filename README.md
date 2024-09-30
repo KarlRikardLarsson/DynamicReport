@@ -3,6 +3,9 @@ En automation som automatiskt installerar en dynamisk rapport i din Qlik Cloud-m
 
 ![image](https://github.com/user-attachments/assets/0cf4b72f-8849-47b9-b2f2-dd38a6eb1646)
 
+![image](https://github.com/user-attachments/assets/200e6468-59de-43c1-a6f7-d573b489040c)
+
+
 ## Innehållsförteckning
 1. [Info](#info)
 2. [Installation](#installation)
