@@ -20,9 +20,9 @@ Har fältet taggen `$Date`, läggs det i period.
 
 
 ### Hur den väljer ut vilka fält som ska vara mått:
-Fältet måste finnas i transaktions tabellen
-Fältet måste vara ett numeriskt värde
-Fältet måste ha mer än ett distinkt värde
+Fältet måste finnas i transaktions tabellen.
+Fältet måste vara ett numeriskt värde.
+Fältet måste ha mer än ett distinkt värde.
 
 ---
 
