@@ -14,13 +14,13 @@ En automation som automatiskt installerar en dynamisk rapport i din Qlik Cloud-m
 ---
 
 ## Info
-### Urval av dimensioner:
+### Hur defineras vad som är en dimension?:
 - Fält kan inte vara en nyckel eller ett dolt fält.
 - Applikationen loopar igenom alla fält och masterdimensioner.
-- Den kontrollerar om fältet eller masterdimensionerna används i ett objekt eller en mastervisualisering i ett PUBLICERAT ark. Om fältet används, inkluderas det i rapporten.
+- Den kontrollerar om fältet eller masterdimensionerna används i ett objekt eller en mastervisualisering i ett `Publicerat` ark. Om fältet används, inkluderas det i rapporten.
 - Om fältet har taggen `$Date`, klassificeras det som en perioddimension.
 
-### Urval av mått:
+### Hur defineras ett mått?:
 - Fältet måste finnas i transaktionstabellen.
 - Fältet måste vara ett numeriskt värde.
 - Fältet måste ha mer än ett distinkt värde.
