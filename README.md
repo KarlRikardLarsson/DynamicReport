@@ -3,12 +3,20 @@ Automatiskt installerar en applikation för dynamisk rapport i Qlik Cloud-miljö
 
 ![image](https://github.com/user-attachments/assets/0cf4b72f-8849-47b9-b2f2-dd38a6eb1646)
 
-Loopar igenom alla fält i en app och skapar en dynamisk rapport baserat på om fältet används eller inte.
 
 ## Innehållsförteckning
-1. [Installation](#installation)
-2. [Konfiguration](#konfiguration)
+1. [Info](#info)
+2. [Installation](#installation)
 3. [Slutförd](#slutförd)
+
+---
+
+## Info
+### Hur den väljer ut vilka fält som ska vara dimensioner:
+Fält kan inte vara en nyckel eller ett gömt fält.  
+Sedan loopar den igenom alla fält och masterdimensioner.  
+Efter det kontrolleras om fältet eller masterdimensionerna används i ett objekt eller i en mastervisualisering i ett PUBLICERAT ark. Om det används i ett objekt, läggs det till i rapporten.  
+Har fältet taggen `$Date`, läggs det i period.
 
 ---
 
