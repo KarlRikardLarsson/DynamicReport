@@ -55,7 +55,7 @@ Välj transaktionstabellen (endast fält från denna tabell används för att sk
 ---
 
 ## Slutförd
-Rapporten är nu installerad! Viss justering kommer förmodligen att behövas, särskilt för datumdimensioner. Om ett datumfält inte identifieras korrekt kan det ändras till en annan inline-tabell. Du kan även manuellt lägga till dimensioner, mått och datum om det behövs, bara skriva vad fältet heter i den tabell den ska in i..
+Rapporten är nu installerad! Viss justering kommer förmodligen att behövas, särskilt för datumdimensioner. Om ett datumfält inte identifieras korrekt kan det ändras till en annan inline-tabell. Du kan även manuellt lägga till dimensioner, mått och datum om det behövs, bara skriva vad fältet heter i den tabell den ska in i.
 
 ![image](https://github.com/user-attachments/assets/17a2b65e-1593-4274-88c6-3190f9dbdca4)
 
