@@ -18,6 +18,12 @@ Sedan loopar den igenom alla fält och masterdimensioner.
 Efter det kontrolleras om fältet eller masterdimensionerna används i ett objekt eller i en mastervisualisering i ett PUBLICERAT ark. Om det används i ett objekt, läggs det till i rapporten.  
 Har fältet taggen `$Date`, läggs det i period.
 
+
+### Hur den väljer ut vilka fält som ska vara mått:
+Fältet måste finnas i transaktions tabellen
+Fältet måste vara ett numeriskt värde
+Fältet måste ha mer än ett distinkt värde
+
 ---
 
 ## Installation
