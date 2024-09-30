@@ -28,16 +28,21 @@ Fältet måste ha mer än ett distinkt värde
 
 ## Installation
 ### Steg 1
+Install the Json file in the repository and upload workspace
+
+![image](https://github.com/user-attachments/assets/52a54133-7824-4a2d-be11-0e55aae2215a)
+
+### Steg 2
 Kör automationen, ingen konfiguration behövs.
 
 ![image](https://github.com/user-attachments/assets/531953d9-d75a-447b-aaa3-64ebe2939313)
 
-### Steg 2
+### Steg 3
 Fyll i den efterfrågade informationen: `Appid` för skanning är applikationen som den dynamiska rapporten ska skapas från. Denna information är obligatorisk. `Output name` och `SpaceID` är valfria; om dessa fält lämnas tomma kommer rapporten att installeras i personliga utrymmet med namnet "Dynamisk Rapport."
 
 ![image](https://github.com/user-attachments/assets/1f6d4398-90d1-46ff-a49e-4ec6cad2625d)
 
-### Steg 3
+### Steg 4
 Nu visas alla tabeller och huvudmått i appen. Välj vilken tabell som är transaktionstabellen (mått kommer endast att skapas från denna tabell) samt vilka huvudmått i appen som ska inkluderas i rapporten.
 
 ![image](https://github.com/user-attachments/assets/8ab1fa44-976c-4730-8f65-28f073ab5203)
