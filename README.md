@@ -1,3 +1,9 @@
+## Innehållsförteckning
+1. [Info](#info)
+2. [Installation](#installation)
+3. [Slutförd](#slutförd)
+
+
 # Dynamisk rapport
 En automation som automatiskt installerar en dynamisk rapport i din Qlik Cloud-miljö.
 
@@ -5,11 +11,6 @@ En automation som automatiskt installerar en dynamisk rapport i din Qlik Cloud-m
 
 ![image](https://github.com/user-attachments/assets/200e6468-59de-43c1-a6f7-d573b489040c)
 
-
-## Innehållsförteckning
-1. [Info](#info)
-2. [Installation](#installation)
-3. [Slutförd](#slutförd)
 
 ---
 
